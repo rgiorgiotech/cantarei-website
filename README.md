@@ -1,2 +1,2 @@
-# cantarei-website
-My project for the Canta Rei Polyphonic Choir Association
+# Website for Coro Polifonico Canta Rei
+This repository will host the new website for Canta Rei Choir.
